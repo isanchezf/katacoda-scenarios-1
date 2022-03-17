@@ -1,6 +1,6 @@
 ![Newspaper](../../assets/online-devops-dojo/shift-security-left/newspaper.jpg)
 
-Nos unimos a nuestro intrépido equipo en medio de un simulacro de incendio, la luz roja inunda el espacio de oficina que comparten los equipos en un centro digital, se pueden escuchar sirenas de fondo, junto con una voz robótica que repite regularmente "Nos han pirateado, esto no es un simulacro...".
+Nos unimos a nuestro intrépido equipo en medio de un simulacro de incendio, la luz roja inunda el espacio de oficina que comparten los equipos en un centro digital, se pueden escuchar sirenas de fondo, junto con una voz robótica que repite regularmente "Nos han hackeado, esto no es un simulacro...".
 
 ![Hal](../../assets/online-devops-dojo/shift-security-left/hal.png)
 
