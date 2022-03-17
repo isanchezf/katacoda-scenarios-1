@@ -1,31 +1,31 @@
 ![Newspaper](../../assets/online-devops-dojo/shift-security-left/newspaper.jpg)
 
-We join our intrepid crew in the midst of a fire drill, red light floods the teams co-located office space in a digital hub, sirens can be heard in the background, together with a robotic voice regularly repeating "**We have been hacked, this is not a drill ...**".
+Nos unimos a nuestro intrépido equipo en medio de un simulacro de incendio, la luz roja inunda el espacio de oficina que comparten los equipos en un centro digital, se pueden escuchar sirenas de fondo, junto con una voz robótica que repite regularmente "Nos han pirateado, esto no es un simulacro...".
 
 ![Hal](../../assets/online-devops-dojo/shift-security-left/hal.png)
 
-A security breach, specifically a [SQL (pronounced "see-kwuhll") Injection Vulnerability](https://en.wikipedia.org/wiki/SQL_injection), has been identified following Hal the hacker's activities.
+Una brecha de seguridad, específicamente una [SQL (pronounced "see-kwuhll") Injection Vulnerability](https://en.wikipedia.org/wiki/SQL_injection), ha sido identificada siguiendo las actividades del hacker Hal.
 
-A SQL Injection vulnerability gives a hacker the ability to compromise the SQL queries that an application sends to it's back-end database. This is one of the most serious vulnerabilities that a business can face because it can result in a hacker getting access to the sensitive information stored in the application's database such as usernames, passwords, names, contact details, and even credit card details.
+Una vulnerabilidad de "SQL Injection" le da a un hacker la capacidad de comprometer las consultas SQL que una aplicación envía a su base de datos de back-end. Esta es una de las vulnerabilidades más graves a las que se puede enfrentar una empresa porque puede dar lugar a que un hacker obtenga acceso a la información confidencial almacenada en la base de datos de la aplicación, como nombres de usuario, contraseñas, nombres, detalles de contacto e incluso detalles de tarjetas de crédito.
 
 ![Brenda](../../assets/online-devops-dojo/shift-security-left/brenda.png)
 
-> We need to fix the immediate vulnerability, and also put a process in place to prevent a repeat hack is to be the teams number 1 priority for the forthcoming sprint. Look, we are even in the local news!
+> Necesitamos corregir la vulnerabilidad inmediatamente, y también implementar un proceso para evitar que se repita el hackeo, esto debe ser la prioridad número 1 de los equipos para el próximo sprint. ¡Mira, estamos hasta en las noticias locales!
 
 ![Adam](../../assets/online-devops-dojo/shift-security-left/adam.png)
 
-> Yes, we have investigated the issue and created stories in the backlog with detailed acceptance criteria to enable the planned Shift Left on Security.
+> Sí, investigamos el problema y creamos historias en el backlog con criterios de aceptación detallados para permitir la planeación de "Shift Left on Security".
 
 ![Selma](../../assets/online-devops-dojo/shift-security-left/selma.png)
 
-> We have created stories that encompass Static Application Security Testing (SAST) and Dynamic Application Security Testing (DAST). SAST involves testing of the source code, binary or byte code of an application. It doesn't need a running system. DAST involves testing an application while it is running. DAST doesn't require access to the source code or the binaries.
+> Hemos creado historias que abarcan Pruebas de análisis estático de seguridad de aplicaciones (SAST) y Pruebas de análisis dinámico de seguridad de aplicaciones (DAST). SAST implica que la prueba se realiza al código fuente, binario o de bytes de una aplicación. No necesita un sistema en funcionamiento. DAST implica probar una aplicación mientras se está ejecutando. DAST no requiere acceso al código fuente ni a los archivos binarios.
 
 ![Paulo](../../assets/online-devops-dojo/shift-security-left/paulo.png)
 
-> We have formed a [Swarm team](https://www.infoq.com/news/2013/02/swarming-agile-teams-deliver) to work the stories. We have a small team of domain experts, Adam (SRE), Dan (Developer), Selma (Security), and Tina (Tester) gathered together for a short period to solve a problem or deliver some key functionality as expeditiously as possible.
+> Hemos formado un [Swarm team](https://www.infoq.com/news/2013/02/swarming-agile-teams-deliver) para trabajar las historias. Contamos con un pequeño equipo de expertos en distintos dominios, Adam (SRE), Dan (Developer), Selma (Security) y Tina (Tester), reunidos durante un período breve para resolver el problema o brindar alguna funcionalidad clave de la manera más rápida posible.
 
 ![Santhosh](../../assets/online-devops-dojo/shift-security-left/santhosh.png)
 
-> This is a high visibility issue so - acting as the servant leader - I will have a key role to protect the team from all the 'noise' around the hack to better enable them to focus on the problem at hand.
+> Este es un problema de alta visibilidad, por lo que, actuando como líder de servicio, tendré un papel clave para proteger al equipo de todo el 'ruido' alrededor del ataque, para que puedan concentrarse mejor en el problema en cuestión.
 
-This is **Shift Left on Security**.
+Esto es **Shift Left on Security**.
