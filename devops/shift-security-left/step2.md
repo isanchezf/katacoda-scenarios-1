@@ -1,4 +1,4 @@
-To proceed with this lab you need to have your own copy of the Pet Clinic GitHub repository under your GitHub user name. If you have not done so please take the Welcome module.
+Para continuar con este laboratorio, debe tener su propia copia del repositorio de GitHub de Pet Clinic con su nombre de usuario de GitHub. Si no lo ha hecho, tome el módulo de Bienvenida.
 
 Then run the following command to bring up Jenkins and connect it to your copy of the Pet Clinic application's code. This script may take a few minutes to run.
 
